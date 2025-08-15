@@ -66,6 +66,10 @@ This temperature monitoring system has various practical uses:
 
 This project demonstrates the interfacing of a temperature sensor with a microcontroller for real-time monitoring and display. It uses simple hardware, easily available libraries, and can be simulated in Tinkercad before actual implementation. The system is low-cost, easy to build, and forms a base for advanced IoT or automation projects.
 
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7dac6bf5-3caa-4616-8bdf-317c89bde887)
+
 
 
 
